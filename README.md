@@ -2,7 +2,7 @@
 
 Kullanılan Teknolojiler (Technologies)
 <ul>
-<li> Front-end : HTML, CSS ve JavaScript </li>
+<li> HTML, CSS ve JavaScript </li>
 <li> WebRTC teknolojisi ile veritabanı ve server gerekmeksizin tarayıcılar üzerinden bağlantı kurulduğundan demo sürümde başka teknoloji kullanılmamıştır.</li>
 </ul>
 
