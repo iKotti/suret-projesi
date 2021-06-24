@@ -1,12 +1,12 @@
 # P2P Video Chat With WebRTC 
 
-Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 <ul>
-<li> HTML, CSS ve JavaScript </li>
-<li> WebRTC teknolojisi ile veritabanı ve server gerekmeksizin tarayıcılar üzerinden bağlantı kurulduğundan demo sürümde başka teknoloji kullanılmamıştır.</li>
+  <li> HTML, CSS ve JavaScript </li>
+  <li> WebRTC teknolojisi ile veritabanı ve server gerekmeksizin tarayıcılar üzerinden bağlantı kurulduğundan demo sürümde başka teknoloji kullanılmamıştır.</li>
 </ul>
 
-Özellikler
+## Özellikler
 <ul>
   <li> P2P bağlantı. </li>
   <li> Anlık olarak görüntü ve ses aktarımı.</li>
@@ -16,4 +16,4 @@ Kullanılan Teknolojiler
 
 Ekran Görüntüsü <br>
 
-![Screenshot_1](https://user-images.githubusercontent.com/58571709/121396478-161b6380-c95c-11eb-8fe6-782c0362ec8e.png)
+![reacTube-image](https://user-images.githubusercontent.com/58571709/121396478-161b6380-c95c-11eb-8fe6-782c0362ec8e.png)
